@@ -1,0 +1,15 @@
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\bin\Debug\net7.0\MusicANALYTICS.exe
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\bin\Debug\net7.0\MusicANALYTICS.deps.json
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\bin\Debug\net7.0\MusicANALYTICS.runtimeconfig.json
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\bin\Debug\net7.0\MusicANALYTICS.dll
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\bin\Debug\net7.0\MusicANALYTICS.pdb
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.csproj.AssemblyReference.cache
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.GeneratedMSBuildEditorConfig.editorconfig
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.AssemblyInfoInputs.cache
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.AssemblyInfo.cs
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.csproj.CoreCompileInputs.cache
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.dll
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\refint\MusicANALYTICS.dll
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.pdb
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\MusicANALYTICS.genruntimeconfig.cache
+X:\IntelliJ\IdeaProjects\MusicStatistics\MusicANALYTICS\obj\Debug\net7.0\ref\MusicANALYTICS.dll

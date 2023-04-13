@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/home/mikolasp/RiderProjects/MusicANALYTICS/MusicANALYTICS/MusicANALYTICS.csproj": {}
+    "X:\\IntelliJ\\IdeaProjects\\MusicStatistics\\MusicANALYTICS\\MusicANALYTICS.csproj": {}
   },
   "projects": {
-    "/home/mikolasp/RiderProjects/MusicANALYTICS/MusicANALYTICS/MusicANALYTICS.csproj": {
+    "X:\\IntelliJ\\IdeaProjects\\MusicStatistics\\MusicANALYTICS\\MusicANALYTICS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mikolasp/RiderProjects/MusicANALYTICS/MusicANALYTICS/MusicANALYTICS.csproj",
+        "projectUniqueName": "X:\\IntelliJ\\IdeaProjects\\MusicStatistics\\MusicANALYTICS\\MusicANALYTICS.csproj",
         "projectName": "MusicANALYTICS",
-        "projectPath": "/home/mikolasp/RiderProjects/MusicANALYTICS/MusicANALYTICS/MusicANALYTICS.csproj",
-        "packagesPath": "/home/mikolasp/.nuget/packages/",
-        "outputPath": "/home/mikolasp/RiderProjects/MusicANALYTICS/MusicANALYTICS/obj/",
+        "projectPath": "X:\\IntelliJ\\IdeaProjects\\MusicStatistics\\MusicANALYTICS\\MusicANALYTICS.csproj",
+        "packagesPath": "C:\\Users\\kosac\\.nuget\\packages\\",
+        "outputPath": "X:\\IntelliJ\\IdeaProjects\\MusicStatistics\\MusicANALYTICS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mikolasp/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kosac\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
@@ -48,18 +45,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.3, 7.0.3]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,15 +7,15 @@ public class Item
     public int position { get; private set; }
     public string artist { get; private set; }
     public string song { get; private set; }
-    public float revenue { get; private set; }
-    public int us { get; private set; }
-    public int uk { get; private set; }
-    public int de { get; private set; }
-    public int fr { get; private set; }
-    public int ca { get; private set; }
-    public int au { get; private set; }
+    public string revenue { get; private set; }
+    public string us { get; private set; }
+    public string uk { get; private set; }
+    public string de { get; private set; }
+    public string fr { get; private set; }
+    public string ca { get; private set; }
+    public string au { get; private set; }
 
-    public Item(int id, int y, int pos, string art, string song, float rev, int us, int uk, int de, int fr, int ca, int au)
+    public Item(int id, int y, int pos, string art, string song, string rev, string us, string uk, string de, string fr, string ca, string au)
     {
         songID = id;
         year = y;
@@ -30,5 +30,10 @@ public class Item
         this.ca = ca;
         this.au = au;
 
+    }
+
+    public override string ToString()
+    {
+        return $"{songID}, {song} by {artist}, {year}";
     }
 }
