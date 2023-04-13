@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fuZvfs3v3DX2dNXaHY0cN9AxMmpr5zFuxKwtgo5NQ/LCs2e5jHabRo4kLvRpzCpvm4P55Py9FCuMf2SLjruGCg==",
+  "success": true,
+  "projectFilePath": "/home/mikolasp/RiderProjects/MusicANALYTICS/MusicANALYTICS/MusicANALYTICS.csproj",
+  "expectedPackageFiles": [
+    "/home/mikolasp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
